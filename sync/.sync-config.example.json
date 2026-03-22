@@ -1,0 +1,11 @@
+{
+  "mdcrypt_url": "https://your-app.vercel.app",
+  "mdcrypt_key": "mdc_xxxx_yyyyyyyyyyyyyy",
+  "crypt_id": "uuid-of-your-crypt",
+  "github_token": "ghp_xxxxxxxxxxxx",
+  "repo": "owner/repo-name",
+  "branch": "main",
+  "state_file": ".sync-state.json",
+  "watch_interval": 600,
+  "sync_statuses": null
+}
